@@ -11,4 +11,4 @@ A passionate data analyst from India
 <img align="left" alt="PowerBI" width="22px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
 <img align="left" alt="Excel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" />
-![visitors](https://visitor-badge.glitch.me/badge?page_id=diyagupta.diyagupta)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=diyagupta.diyagupta)]
