@@ -7,7 +7,7 @@ A passionate data analyst from India
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/diya018)
 
 ## Languages and Tools:
-<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
 <img align="left" alt="PowerBI" width="22px" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
 <img align="left" alt="Excel" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" />
