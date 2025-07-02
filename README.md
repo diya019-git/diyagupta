@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=diyagupta&color=blue&style=flat)
+<h3 align="right">![Profile views](https://komarev.com/ghpvc/?username=diyagupta&color=blue&style=flat)</h3>
 
 <h1 align="center">Hi 👋, I'm Diya Gupta</h1>
 <h3 align="center">A passionate data analyst from India</h3>
