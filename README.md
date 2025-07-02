@@ -4,7 +4,7 @@ A passionate data analyst from India
 - 📫 How to reach me: [diyagupta10a@gmail.com](mailto:diyagupta10a@gmail.com)
 ## Connect with me:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diya-gupta-45305a295/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-kaggle-username)
+[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/diya018)
 
 ## Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
