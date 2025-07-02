@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Mou Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Diya Gupta</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
 ---
 
 - 🔭 I’m currently working on improving data-driven decision making  
 - 🌱 I’m learning advanced analytics, Power BI & Excel automation  
-- 📫 How to reach me: [mousarkar22002@gmail.com](mailto:mousarkar22002@gmail.com)
+- 📫 How to reach me: [diyagupta10a@gmail.com](mailto:diyagupta10a@gmail.com)
 
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-kaggle-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/diya-gupta-45305a295)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/diya018)
 
 ---
 
@@ -26,10 +26,10 @@
 
 ---
 
-### 📊 GitHub Stats (Optional):
+### 📊 GitHub Stats :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diya019-git&show_icons=true&theme=default" />
 </p>
 
 ---
