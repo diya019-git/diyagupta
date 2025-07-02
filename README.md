@@ -1,4 +1,5 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=diyagupta)
+![Profile views](https://komarev.com/ghpvc/?username=diyagupta&color=blue&style=flat)
+
 <h1 align="center">Hi 👋, I'm Diya Gupta</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
